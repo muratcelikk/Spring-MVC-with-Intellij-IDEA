@@ -1,6 +1,4 @@
-# Spring-MVC-with-Intellij-IDEA
-
-<h1> The project is in zip. </h1>
+# Spring-MVC-with-Intellij-IDEA <h1>(The project is in zip.)</h1>
 
 <p>
 <a href="https://github.com/muratcelikk/Spring-MVC-with-Intellij-IDEA/blob/main/img/mvc.png" target="_blank">
