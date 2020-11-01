@@ -1,4 +1,4 @@
-# Spring-MVC-with-Intellij-IDEA
+# The project is in the springMVC.zip
 
 <p>
 <a href="https://github.com/muratcelikk/Spring-MVC-with-Intellij-IDEA/blob/main/img/mvc.png" target="_blank">
