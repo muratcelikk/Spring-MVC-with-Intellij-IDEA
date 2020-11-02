@@ -1,4 +1,4 @@
-# The project is in the Spring MVC
+# Spring MVC with İntellij İDEA
 
 <p>
 <a href="https://github.com/muratcelikk/Spring-MVC-with-Intellij-IDEA/blob/main/img/mvc.png" target="_blank">
